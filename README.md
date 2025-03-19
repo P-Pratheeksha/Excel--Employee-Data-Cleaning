@@ -45,4 +45,4 @@ This repository contains a data cleaning practice file where I worked on an uncl
 
 **Purpose**
 
-The objective of this project was to practice and enhance data cleaning skills using Excel's built-in features and Power Query. Clean data is essential for accurate analysis and reporting, making these techniques valuable for any data professional.
+The objective of this project was to practice and enhance data cleaning skills using Excel's built-in features and Power Query. Clean data is essential for accurate analysis and reporting.
