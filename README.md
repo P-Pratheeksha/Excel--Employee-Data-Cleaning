@@ -4,6 +4,9 @@
 
 This repository contains a data cleaning practice file where I worked on an uncleaned Employee Dataset obtained from [Chandoo.org] (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0JDNksydWVZUU5hNDMtTXlZQWsxQWstVGpQd3xBQ3Jtc0treFNlUWo2OE1VQnhDWENvR3Byb3JHdlBLb05ZOXVSUXVzd3g5SWdnYm4tUmFXay1LdHF1WjRDYnRyRTdPRklvTVRqb1Y2R0tMZlo0dC1fWFpIcnNoNkVRQnhmTkhLbW9vYk93a0IyRWN2ak5KQzdETQ&q=https%3A%2F%2Fchandoo.org%2Fwp%2Fwp-content%2Fuploads%2F2022%2F04%2Fdata-cleaning-in-excel.xlsx&v=q7EpoOwBcnM). The dataset was processed using various data cleaning techniques in Excel, including Flash Fill, Text to Columns, Power Query, and logical functions.
 
+&nbsp;
+
+
 **Data Cleaning Techniques Used**
 
 **-Flash Fill -** Extracted the first name of employees from the full name column.
@@ -17,8 +20,7 @@ This repository contains a data cleaning practice file where I worked on an uncl
 **-IF ELSE Logic -** Used conditional formulas to clean and categorize data.
 
 
-nbsp&l;
-
+&nbsp;
 
 **Power Query for Advanced Cleaning:**
 
@@ -29,7 +31,7 @@ nbsp&l;
 -Addressed missing values in the gender column.
 
 
-nbsp&l;
+&nbsp;
 
 
 **Tools Used**
@@ -38,8 +40,8 @@ nbsp&l;
 
 -Power Query (for advanced transformations and handling missing data)
 
-nbsp&l;
 
+&nbsp;
 
 **Purpose**
 
